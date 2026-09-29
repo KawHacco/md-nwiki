@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "N高大百科"
+  name: "N高大百科MD"
   text: "みんなで作る、非公式Wiki"
   tagline: N高グループを生徒の視点から解説するWiki
   actions:
