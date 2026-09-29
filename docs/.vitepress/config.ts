@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'ja-JP',
   title: 'N高大百科',
   description: 'A Markdown-based Wiki',
-  base: '/md-wiki/',
+  base: '/md-nwiki/',
   lastUpdated: true,
   ignoreDeadLinks: true,
   cleanUrls: true,
